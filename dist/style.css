@@ -1,0 +1,63 @@
+body {
+  background-image: linear-gradient(#D1FFEF,#A4D8ED);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  font-family: 'Lumanosimo', sans-serif;
+  color: #94EBCC;
+}
+h4 {
+  font-family: 'Lato', sans-serif;
+  color: #94EBCC;
+}
+
+.container {
+      background-color: #FFFFFF;
+      width: 500px;
+      height: 540px;
+  text-align: center;
+  border: 3px solid #A4EDD3;
+  border-radius: 0.5rem;
+  padding: 3rem;
+  font-family: 'Aclonica';
+    }
+
+button {
+  color: #A4EDD3;
+  background-color: #FFFFFF;
+  border: 2px solid #A4EDD3;
+  border-radius: 0.rem;
+  margin-bottom: 5px;
+  font-size: 16px;
+}
+
+#option3{
+  visibility: hidden;
+}
+#option4{
+  visibility: hidden;
+}
+
+img{
+  width: 400px;
+}
+
+#descr {
+  font-family: 'Lato', sans-serif;
+  color: #94EBCC;
+  visibility: hidden;
+  margin-top: -80px;
+}
+
+#gameimage {
+  visibility: hidden;
+}
+
+#trailerlink {
+  font-family: 'Lato', sans-serif;
+  color: #94EBCC;
+  visibility: hidden;
+}
